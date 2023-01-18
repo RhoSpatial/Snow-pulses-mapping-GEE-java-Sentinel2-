@@ -1,6 +1,6 @@
 # Snow-pulses-mapping-GEE-java-Sentinel_2
 
-```{code-block} javascript
+```{code-block}javascript
 
 
 var S2snow_13jan21_MASK = ee.Image('COPERNICUS/S2_SR/20210113T120331_20210113T120325_T28RBS')
